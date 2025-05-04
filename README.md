@@ -13,3 +13,5 @@ and Support Vector Machines, were able to effectively predict cancer samples, ac
 (downregulated), Bex1 (downregulated), HSD17B6 (upregulated), and TCEAL2 (upregulated) as potential biomarkers that need further investigation. This study combines
 machine learning with bioinformatics analysis to spot potential lung cancer biomarkers,
 potentially paving the way for improved diagnostic, prognostic, and therapeutic strategies
+
+Full thesis available in the repository files.
