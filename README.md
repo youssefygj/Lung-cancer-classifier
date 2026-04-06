@@ -20,7 +20,7 @@ The pipeline was applied to **598 RNA-seq samples** (539 primary tumors, 59 norm
 |---|---|
 | Random Forest (RF) | 94% |
 | Support Vector Machine (SVM) | 100% |
-| Logistic Regression (GLM) | — |
+| Logistic Regression (GLM) | 93% |
 
 **Top candidate biomarkers identified:**
 - `ALPP` — downregulated
